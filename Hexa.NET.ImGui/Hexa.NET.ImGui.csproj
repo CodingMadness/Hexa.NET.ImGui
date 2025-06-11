@@ -12,14 +12,15 @@
 		<EnableAotAnalyzer>true</EnableAotAnalyzer>
 		<IsAotCompatible>true</IsAotCompatible>
 
-		<AssemblyVersion>1.91.9</AssemblyVersion>
-		<PackageVersion>2.2.7</PackageVersion>
-		<Description>A .NET wrapper for the Dear ImGui library. (1.91.9b)</Description>
+		<PackageId>CodeBro.Hexa.NET.ImGui</PackageId>
+		<AssemblyVersion>1.91.9b</AssemblyVersion>
+		<PackageVersion>1.0.0</PackageVersion>
+		<Description>An up2date .NET wrapper for the Dear ImGui library. (1.91.9b)</Description>
 		<PackageTags>ImGui UI Immidate GUI Hexa HexaGen Source Generator C# .NET DotNet Sharp Windows macOS Android Bindings Wrapper Native</PackageTags>
-		<Authors>Juna Meinhold</Authors>
-		<Copyright>Copyright (c) 2023 Juna Meinhold</Copyright>
+		<Authors>Shpend Hoti</Authors>
+		<Copyright>Copyright (c) 2025 Shpend Hoti</Copyright>
 		<PackageProjectUrl>https://github.com/HexaEngine/Hexa.NET.ImGui</PackageProjectUrl>
-		<RepositoryUrl>https://github.com/HexaEngine/Hexa.NET.ImGui</RepositoryUrl>
+		<RepositoryUrl>https://github.com/CodingMadness/Hexa.NET.ImGui</RepositoryUrl>
 		<RepositoryType>git</RepositoryType>
 		<PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
