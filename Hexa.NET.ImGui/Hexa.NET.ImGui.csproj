@@ -15,10 +15,11 @@
 		<PackageId>CodeBro.Hexa.NET.ImGui</PackageId>
 		<AssemblyVersion>1.91.9b</AssemblyVersion>
 		<PackageVersion>1.0.0</PackageVersion>
-		<Description>An up2date .NET wrapper for the Dear ImGui library. (1.91.9b)</Description>
+		<Description>A fork from the original creator and maintainer "Juna Meinhold";
+					 An up2date .NET wrapper for the Dear ImGui library. (1.91.9b)</Description>
 		<PackageTags>ImGui UI Immidate GUI Hexa HexaGen Source Generator C# .NET DotNet Sharp Windows macOS Android Bindings Wrapper Native</PackageTags>
-		<Authors>Shpend Hoti</Authors>
-		<Copyright>Copyright (c) 2025 Shpend Hoti</Copyright>
+		<Authors>CodeBro</Authors>
+		<Copyright>Copyright (c) 2025 CodeBro</Copyright>
 		<PackageProjectUrl>https://github.com/HexaEngine/Hexa.NET.ImGui</PackageProjectUrl>
 		<RepositoryUrl>https://github.com/CodingMadness/Hexa.NET.ImGui</RepositoryUrl>
 		<RepositoryType>git</RepositoryType>
